@@ -1,0 +1,9 @@
+hey there
+all good here.
+i dont want to make lesson plan.
+
+#include<stdio.h>
+int main()
+{
+printf("hello");
+}
